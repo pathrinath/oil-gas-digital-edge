@@ -1,0 +1,98 @@
+
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "whyUs": "Por Qué Nosotros",
+    "services": "Servicios",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Transformación Digital para la Industria de Petróleo y Gas",
+    "subtitle": "soluciones líderes en IoT, Edge Computing y Monitoreo Remoto",
+    "description": "Revoluciona tus operaciones con tecnología de vanguardia. Desde campos petrolíferos inteligentes hasta tableros en tiempo real, entregamos soluciones de grado industrial que impulsan la eficiencia y seguridad.",
+    "cta": "Comenzar",
+    "learnMore": "Conoce Más"
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Soluciones Tecnológicas Integrales",
+    "iot": {
+      "title": "IoT en Petróleo y Gas",
+      "description": "Conecta, monitorea y optimiza las operaciones de campo con sensores IoT avanzados y dispositivos inteligentes."
+    },
+    "edge": {
+      "title": "Análisis de Borde",
+      "description": "Procesa datos en la fuente con poderosas soluciones de edge computing para toma de decisiones en tiempo real."
+    },
+    "dashboards": {
+      "title": "Tableros Digitales",
+      "description": "Visualiza tus operaciones con tableros intuitivos en tiempo real y sistemas de informes."
+    },
+    "monitoring": {
+      "title": "Monitoreo Remoto",
+      "description": "Monitoreo remoto de activos 24/7 y mantenimiento predictivo para máximo tiempo de actividad y seguridad."
+    }
+  },
+  "about": {
+    "title": "Acerca de S-AIS",
+    "subtitle": "Líderes de la Industria en Innovación Digital",
+    "description": "Somos una empresa de tecnología especializada en IoT, Edge Computing, Monitoreo Remoto y Tableros Digitales específicamente diseñados para la industria de Petróleo y Gas. Nuestra misión es transformar las operaciones tradicionales a través de soluciones digitales de vanguardia.",
+    "mission": "Nuestra Misión",
+    "missionText": "Revolucionar la industria de Petróleo y Gas a través de soluciones innovadoras de IoT y edge computing que mejoren la seguridad, eficiencia y responsabilidad ambiental.",
+    "experience": "Nuestra Experiencia",
+    "experienceText": "Con años de experiencia en tecnología industrial y profundo entendimiento de las operaciones de Petróleo y Gas, entregamos soluciones que enfrentan los desafíos únicos de tu industria."
+  },
+  "whyUs": {
+    "title": "Por Qué Elegir S-AIS",
+    "subtitle": "Tu Socio Tecnológico de Confianza",
+    "expertise": {
+      "title": "Experiencia en la Industria",
+      "description": "Conocimiento profundo de operaciones de Petróleo y Gas y requisitos regulatorios"
+    },
+    "technology": {
+      "title": "Tecnología de Vanguardia",
+      "description": "Últimas tecnologías IoT, Edge Computing e IA adaptadas para uso industrial"
+    },
+    "support": {
+      "title": "Soporte 24/7",
+      "description": "Soporte técnico y servicios de monitoreo las 24 horas del día"
+    },
+    "proven": {
+      "title": "Resultados Comprobados",
+      "description": "Historial de proyectos exitosos de transformación digital"
+    }
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "Hablemos de Tu Transformación Digital",
+    "form": {
+      "name": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "company": "Nombre de la Empresa",
+      "phone": "Número de Teléfono",
+      "message": "Mensaje",
+      "meetingRequest": "Solicitar una Reunión",
+      "submit": "Enviar Mensaje",
+      "bookMeeting": "Reservar Reunión"
+    },
+    "info": {
+      "address": "Información de Contacto",
+      "phone": "+1 (555) 123-4567",
+      "email": "info@s-ais.com",
+      "hours": "Disponible 24/7"
+    }
+  },
+  "footer": {
+    "description": "Soluciones tecnológicas líderes para la transformación digital de Petróleo y Gas.",
+    "quickLinks": "Enlaces Rápidos",
+    "services": "Servicios",
+    "contact": "Info de Contacto",
+    "rights": "Todos los derechos reservados."
+  },
+  "common": {
+    "learnMore": "Conoce Más",
+    "getQuote": "Obtener Cotización",
+    "viewAll": "Ver Todo"
+  }
+}
